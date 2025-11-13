@@ -7,7 +7,7 @@
 				<node id="entries">
 					<children>
 						<node id="Object">
-							<attribute id="MapKey" type="FixedString" value="Assets/Portraits/076b2615-deef-f914-61a7-ac1972683de8-EQP_Staff_Robe_(Icon_Tiefling_Male).png" />
+							<attribute id="MapKey" type="FixedString" value="Assets/Portraits/9530b342-c922-4030-aea3-45628b3706fd-EQP_Javelin_Leather_Shield_(Icon_Tiefling_Male).png" />
 							<children>
 								<node id="entries">
 									<attribute id="h" type="int16" value="152" />
@@ -17,7 +17,7 @@
 							</children>
 						</node>
 						<node id="Object">
-							<attribute id="MapKey" type="FixedString" value="Assets/Portraits/076b2615-deef-f914-61a7-ac1972683de8-_(Icon_Tiefling_Male).png" />
+							<attribute id="MapKey" type="FixedString" value="Assets/Portraits/3921fbdf-aa1b-9a0b-a823-605bb0746673-_(Icon_Tiefling_Male).png" />
 							<children>
 								<node id="entries">
 									<attribute id="h" type="int16" value="152" />
