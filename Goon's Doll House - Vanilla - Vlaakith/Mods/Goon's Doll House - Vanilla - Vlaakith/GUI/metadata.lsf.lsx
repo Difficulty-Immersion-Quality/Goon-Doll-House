@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="config">
+		<node id="config">
+			<children>
+				<node id="entries">
+					<children>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Portraits/0360ff86-3aec-b86f-7e03-b6d365cbd5e4-_(Icon_Githyanki_Female).png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="152" />
+									<attribute id="mipcount" type="int8" value="8" />
+									<attribute id="w" type="int16" value="152" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Portraits/dddd57d5-35e8-17d5-6d6c-2436de8ec0a0-EQP_Shortsword_Gith_(Icon_Githyanki_Female).png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="152" />
+									<attribute id="mipcount" type="int8" value="8" />
+									<attribute id="w" type="int16" value="152" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Portraits/e4164b1d-7a81-0270-214f-6b26f256fbb3-EQP_Shortsword_Gith_(Icon_Githyanki_Female).png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="152" />
+									<attribute id="mipcount" type="int8" value="8" />
+									<attribute id="w" type="int16" value="152" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
