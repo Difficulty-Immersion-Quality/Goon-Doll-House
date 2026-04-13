@@ -8,20 +8,20 @@
         <node id="ModuleInfo">
           <attribute id="Author" type="LSString" value="Goonsack" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Description" type="LSString" value="Restores TEMPLATE's appearance to her vanilla self." />
-          <attribute id="Folder" type="LSString" value="Goon's Doll House - Vanilla - TEMPLATE" />
+          <attribute id="Description" type="LSString" value="Restores Lakrissa's appearance to her vanilla self." />
+          <attribute id="Folder" type="LSString" value="Goon's Doll House - Vanilla - Lakrissa" />
           <attribute id="GMTemplate" type="FixedString" value="" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="" />
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
           <attribute id="MenuLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="Goon's Doll House - Vanilla - TEMPLATE" />
+          <attribute id="Name" type="FixedString" value="Goon's Doll House - Vanilla - Lakrissa" />
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />
           <attribute id="Tags" type="LSString" value="" />
           <attribute id="Type" type="FixedString" value="Add-on" />
-          <attribute id="UUID" type="FixedString" value="TEMPLATE" />
+          <attribute id="UUID" type="FixedString" value="9ffab7c8-8f68-496d-a5be-868a2584d7cc" />
           <attribute id="Version64" type="int64" value="36028803461414912" />
           <children>
             <node id="PublishVersion">
